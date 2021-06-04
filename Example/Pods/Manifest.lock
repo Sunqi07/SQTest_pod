@@ -1,0 +1,16 @@
+PODS:
+  - SQTest_pod (0.1.0)
+
+DEPENDENCIES:
+  - SQTest_pod (from `../`)
+
+EXTERNAL SOURCES:
+  SQTest_pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SQTest_pod: 6f3288703531275adec437f4c860d534cf5c9651
+
+PODFILE CHECKSUM: 6f8e1954c9c76cd527dc3dea63adaaa6804a7cd1
+
+COCOAPODS: 1.9.1

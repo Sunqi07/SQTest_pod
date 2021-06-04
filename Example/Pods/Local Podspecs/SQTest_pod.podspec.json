@@ -1,0 +1,22 @@
+{
+  "name": "SQTest_pod",
+  "version": "0.1.0",
+  "summary": "我是一个关于SQTest_pod的简单介绍，我是一个自己创建的私有库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sunqi07/SQTest_pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iOS_sunqi": "sunqi@lexue100.com"
+  },
+  "source": {
+    "git": "https://github.com/Sunqi07/SQTest_pod",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SQTest_pod/Classes/**/*"
+}

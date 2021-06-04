@@ -1,0 +1,6 @@
+framework module SQTest_pod {
+  umbrella header "SQTest_pod-umbrella.h"
+
+  export *
+  module * { export * }
+}

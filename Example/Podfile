@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SQTest_pod_Example' do
+  pod 'SQTest_pod', :path => '../'
+
+  target 'SQTest_pod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
